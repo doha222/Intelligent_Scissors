@@ -1,0 +1,56 @@
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojAssemblyReference.cache
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.cache
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.CoreCompileInputs.cache
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+F:\Computer Science\Algorithms\Intelligent Scissors Startup Code\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe.config
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.AssemblyReference.cache
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.cache
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.CoreCompileInputs.cache
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe.config
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.dll
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.pdb
+C:\Users\lelol\Downloads\Intelligent Scissors Startup Code 2\Intelligent Scissors Startup Code\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.xml
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe.config
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.dll
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.pdb
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.xml
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.AssemblyReference.cache
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.cache
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.CoreCompileInputs.cache
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+E:\computer scince\3rd Year\ALGORITHMS\[TEMPLATE] IntelligentScissors (9)\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe.config
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.dll
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.pdb
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\PriorityQueue.xml
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.AssemblyReference.cache
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.cache
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.CoreCompileInputs.cache
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\final\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
